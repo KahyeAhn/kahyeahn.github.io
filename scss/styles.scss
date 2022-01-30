@@ -960,6 +960,10 @@ footer {
 
     .project-image {
         display: none;
+        image {
+            width: 300px;
+            height: 300px;
+        }
     }
 
     .project-info {
